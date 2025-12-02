@@ -11,9 +11,14 @@ I’m more of a developer than a designer — but I love great design. Whenever 
 
 ---
 
-### 🔧 Tech Stack
+## Languages & Technologies:
 
-**Languages & Frameworks:** JavaScript, TypeScript, React, Next.js, Astro, Python
-**Styling:** Tailwind CSS
-**Database & ORM:** MongoDB, Drizzle ORM
-**Currently Learning:** Game development in **Godot** 🎮
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,py,tailwind,sass,postgresql,mongodb,redis,bun,nodejs,express,react,nextjs,astro,firebase,supabase)](https://skillicons.dev)
+
+## Tools:
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,postman,vite,vscode,blender,bash,figma,ai,vercel,godot,cloudflare)](https://skillicons.dev)
+
+### My Stats:
+
+[![GitHub Streak](https://github-streak.samy0f.com?user=Samy0f&theme=transparent&border_radius=10&short_numbers=true&border=3D444D&currStreakNum=EBEBEB&sideNums=EBEBEB&fire=EB0574&dates=9198A1&currStreakLabel=EBEBEB&sideLabels=EBEBEB&ring=00EB6E&stroke=3D444D)](https://git.io/streak-stats)

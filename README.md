@@ -17,7 +17,7 @@ I’m more of a developer than a designer — but I love great design. Whenever 
 
 ## Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,postman,vite,vscode,blender,bash,figma,ai,vercel,godot,cloudflare)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,postman,vite,vscode,blender,figma,ai,vercel,godot,cloudflare)](https://skillicons.dev)
 
 ### My Stats:
 
